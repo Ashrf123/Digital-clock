@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content:center;
+    align-items: center;
+    
+}
+
+.coder {
+    border: 1px solid blue;
+    background-color: aquamarine;
+
+    display: flex;
+    flex-direction:row;
+    justify-content: space-between;
+    padding-right: 20px;
+    font-size: 50px;
+    
+    
+}
+ 
+#pointer { 
+    padding-left: 20px;
+}
